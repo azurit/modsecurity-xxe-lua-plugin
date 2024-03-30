@@ -1,4 +1,4 @@
-# OWASP ModSecurity Core Rule Set - XXE Lua Plugin
+# OWASP CRS - XXE Lua Plugin
 
 ## Description
 
@@ -62,8 +62,8 @@ the following message in the log:
 
 ## License
 
-Copyright (c) 2022 OWASP ModSecurity Core Rule Set project. All rights reserved.
+Copyright (c) 2022-2024 OWASP CRS project. All rights reserved.
 
-The OWASP ModSecurity Core Rule Set and its official plugins are distributed
+The OWASP CRS and its official plugins are distributed
 under Apache Software License (ASL) version 2. Please see the enclosed LICENSE
 file for full details.
