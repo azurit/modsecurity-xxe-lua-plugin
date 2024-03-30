@@ -1,3 +1,12 @@
+-- -----------------------------------------------------------------------
+-- OWASP CRS Plugin
+-- Copyright (c) 2022-2024 Core Rule Set project. All rights reserved.
+--
+-- The OWASP CRS plugins are distributed under
+-- Apache Software License (ASL) version 2
+-- Please see the enclosed LICENSE file for full details.
+-- -----------------------------------------------------------------------
+
 function main(request_body)
         pcall(require, "m")
 	local ok, lxp = pcall(require, "lxp")
